@@ -1,0 +1,53 @@
+body {
+
+ font-family: 'Macondo', cursive;
+
+ text-align: center;
+
+ color: white;
+
+ background-repeat: no-repeat;
+
+ font-size: 25px;
+
+ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);
+
+}
+
+h2 {
+
+ font-size: 29px;
+
+}
+
+img {
+
+ background-color: white;
+
+ padding: 10px;
+
+}
+
+.test_image_and_result {
+
+ background-color:royalblue;
+
+ border-radius: 15px;
+
+ padding:3px;
+
+}
+
+img {
+
+ width: 250px;
+
+}
+
+#results {
+
+ margin-left: 34px;
+
+ padding: 10px;
+
+}
